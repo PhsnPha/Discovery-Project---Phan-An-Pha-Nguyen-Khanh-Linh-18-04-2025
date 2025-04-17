@@ -1,5 +1,0 @@
-train: /content/drive/MyDrive/Colab Notebooks/Stage 1/images/train
-val: /content/drive/MyDrive/Colab Notebooks/Stage 1/images/val
-test: /content/drive/MyDrive/Colab Notebooks/Stage 1/images/test
-nc: 1
-names: ['0']
